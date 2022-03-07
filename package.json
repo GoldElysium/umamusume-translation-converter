@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "csv-parse": "^4.16.0"
+    "csv-parse": "^5.0.0"
   },
   "devDependencies": {
     "eslint": "7.28.0",
